@@ -1,0 +1,35 @@
+.header
+{
+    color: red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.paragraph
+{
+    font-size: 50px;
+}
+
+body {
+    background-color: bisque;
+    font-family: 'Courier New', Courier, monospace;
+}
+nav{
+    width: 100%;
+
+}
+ul{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+li{
+    list-style-type: none;
+    margin: 0px 25px;
+}
+nav a {
+    font-size: large;
+    color: brown;
+    text-decoration: none;
+
+}
